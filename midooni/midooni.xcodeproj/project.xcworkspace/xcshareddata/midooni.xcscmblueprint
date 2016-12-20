@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "9A9BF678BB77E42DD37C446A47284DC380300A3D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "E9975808329E26DFD8F55EC8452E2C4E4CE03E62" : 0,
+    "9A9BF678BB77E42DD37C446A47284DC380300A3D" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "EEFF2FE8-1B8E-4CE4-8EF2-66B2064DAA0B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "E9975808329E26DFD8F55EC8452E2C4E4CE03E62" : "",
+    "9A9BF678BB77E42DD37C446A47284DC380300A3D" : "hackers\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "midooni",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "midooni\/midooni.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/mohammadrezaaa\/hackers.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9A9BF678BB77E42DD37C446A47284DC380300A3D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/fop-fall2016\/team29.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E9975808329E26DFD8F55EC8452E2C4E4CE03E62"
+    }
+  ]
+}
